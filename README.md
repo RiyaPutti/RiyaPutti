@@ -14,7 +14,7 @@
 
 `AI/ML Engineer` · `GenAI` · `NLP` · `Computer Vision` · `Hyderabad, India`
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)](https://riyaputti.vercel.app)
+[![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)]([https://riyaputti.vercel.app](https://riya-portfolio-jade.vercel.app))
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/riya-putti30)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:riyaputti30@gmail.com)
 
@@ -54,8 +54,8 @@ stack = {
 
 | Project | Stack | What it does |
 |---|---|---|
-| 🗣️ **[AI Discussion Forum Assistant](#)** | RAG · LangChain · FAISS · Llama 3 | Multimodal AI that answers queries from text + screenshots via OCR + RAG |
-| 👁️ **[Diabetic Retinopathy Detection](#)** | DenseNet121 · TensorFlow · OpenCV | 92% accuracy across 5 severity stages on 3,662 retinal images |
+| 🗣️ **[AI Discussion Forum Assistant]()** | RAG · LangChain · FAISS · Llama 3 | Multimodal AI that answers queries from text + screenshots via OCR + RAG |
+| 👁️ **[Diabetic Retinopathy Detection](https://github.com/RiyaPutti/Automated-Diabetic-Retinopathy-detection)** | DenseNet121 · TensorFlow · OpenCV | 92% accuracy across 5 severity stages on 3,662 retinal images |
 | 🛒 **[Ecommerce Data Pipeline](#)** | AWS · Python · Power BI | End-to-end cloud pipeline on 1M+ rows with BI dashboards |
 | 🚧 **[Pothole Severity Detection](#)** | YOLOv8 · Roboflow · OpenCV | Real-time road condition assessment on 2,900+ annotated images |
 
