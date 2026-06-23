@@ -14,7 +14,7 @@
 
 `AI/ML Engineer` · `GenAI` · `NLP` · `Computer Vision` · `Hyderabad, India`
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)]([https://riyaputti.vercel.app](https://riya-portfolio-jade.vercel.app))
+[![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)](https://riya-portfolio-jade.vercel.app/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/riya-putti30)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:riyaputti30@gmail.com)
 
